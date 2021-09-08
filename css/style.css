@@ -1,26 +1,82 @@
+html{
+	background-color: #0C3745;
+}
+
 header{
-	background-color: #2577a1;
+	background-color: #D7C1D5;
 	text-align: center;
 	font-size: 24px;
 	padding: 5px;
 	font-family: 'Courier New', monospace;
 	margin: auto;
 	width: 1000px;
+	border-bottom: 2px solid;
 
 }
+
 .personal_info{
-	background-color: #2b8aba;
+	background-color: #114B5F;
 	text-align: left;
 	font-size: 16px;
 	padding: 5px;
 	font-family: 'Courier New', monospace;
 	margin: auto;
 	width: 1000px;
+	color: #DDDFDF;
 }
 .background_info{
 	width: 1000px;
 	padding: 5px;
 	text-align: left;
-	background-color: red;
+	background-color: #114B5F;
 	margin: auto;
+	color: #DDDFDF;
+	font-family: 'Courier New', monospace;
+	border-bottom: 1px solid;
+}
+.interest_in_it{
+	width: 1000px;
+	padding: 5px;
+	text-align: left;
+	background-color:#114B5F ;
+	margin: auto;
+	color: #DDDFDF;
+	font-family: 'Courier New', monospace;
+	border-bottom: 1px solid;
+}
+
+.ideal_job{
+	width: 1000px;
+	padding: 5px;
+	text-align: left;
+	background-color:#114B5F ;
+	margin: auto;
+	color: #DDDFDF;
+	font-family: 'Courier New', monospace;
+	border-bottom: 1px solid;
+}
+
+/* Link colors */
+a:link {
+  color: #B4D4EE;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }

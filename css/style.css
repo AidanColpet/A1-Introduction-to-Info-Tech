@@ -44,6 +44,19 @@ header{
 	font-family: 'Courier New', monospace;
 	border-bottom: 1px solid;
 }
+.personal_profile{
+	width: 1000px;
+	padding: 5px;
+	text-align: left;
+	background-color: #114B5F;
+	margin: auto;
+	color: #DDDFDF;
+	font-family: 'Courier New', monospace;
+	border-bottom: 1px solid;
+}
+h3{
+	font-size: 23px;
+}
 
 .ideal_job{
 	width: 1000px;
@@ -54,6 +67,14 @@ header{
 	color: #DDDFDF;
 	font-family: 'Courier New', monospace;
 	border-bottom: 1px solid;
+}
+.project_idea{
+	width: 1000px;
+	padding: 5px;
+	text-align: left;
+	margin: auto;
+	font-family: 'Courier New', monospace;
+	border-bottom: 1px solid
 }
 
 /* Link colors */

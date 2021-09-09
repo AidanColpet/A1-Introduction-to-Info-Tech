@@ -77,6 +77,18 @@ h3{
 	border-bottom: 1px solid
 }
 
+footer{
+	width: 1000px;
+	padding: 5px;
+	text-align: right;
+	margin: auto;
+	font-family: 'Courier New', monospace;
+	border-bottom: 1px solid;
+	font-size: 25px;
+	color: #DDDFDF;
+}
+
+
 /* Link colors */
 a:link {
   color: #B4D4EE;

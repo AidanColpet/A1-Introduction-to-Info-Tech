@@ -75,12 +75,25 @@ h3{
 	margin: auto;
 	font-family: 'Courier New', monospace;
 	border-bottom: 1px solid
+	background-color: #114B5F;
+	color: #DDDFDF;
+	border-bottom: 1px solid;
 }
 
-footer{
+.index_footer{
 	width: 1000px;
 	padding: 5px;
 	text-align: right;
+	margin: auto;
+	font-family: 'Courier New', monospace;
+	border-bottom: 1px solid;
+	font-size: 25px;
+	color: #DDDFDF;
+}
+.idea_footer{
+	width: 1000px;
+	padding: 5px;
+	text-align: left;
 	margin: auto;
 	font-family: 'Courier New', monospace;
 	border-bottom: 1px solid;
